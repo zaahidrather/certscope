@@ -8,7 +8,7 @@ It includes core pages such as the Homepage, Project Management, and Login pages
 1. Clone this repository 
 
 2. Navigate to the project directory
-- cd certscope-projectmanagement
+- cd certscope
 
 3. Install dependencies
 - npm install `or` yarn install
