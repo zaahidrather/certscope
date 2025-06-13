@@ -33,6 +33,7 @@ It includes core pages such as the Homepage, Project Management, and Login pages
 - Login Page
 
 ## Folder structure
+```
 .
 ├── assets/         # Static assets (images, icons)
 ├── components/     # Reusable Vue components
@@ -40,3 +41,4 @@ It includes core pages such as the Homepage, Project Management, and Login pages
 ├── pages/          # Page views
 ├── public/         # Public static files
 └── README.md       # This file
+```
